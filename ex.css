@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+    font-family: cursive;
+}
+
+h2{
+    background-color: blueviolet;
+    font-family: fantasy;
+}
+p{
+    color: chocolate;
+
+}
+div{
+    background-color: cornflowerblue;
+    font-family: sans-serif;
+}
+span{
+    color:beige;
+    background-color: brown;
+
+}
