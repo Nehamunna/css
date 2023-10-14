@@ -1,0 +1,13 @@
+.thatha{
+    background-image:url('./gandhi.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.dasara{
+    background-image:url('./dasara.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+<h1 style="color: rgb(20, 255, 51);text-align: center;font-weight: 5000;font-family:serif;text-decoration: underline rgb(20, 255, 20)  5px;text-shadow: 5px 3px 1px rgb(10, 10, 159);line-height: 2;">OCTOBER,2023</h1>
